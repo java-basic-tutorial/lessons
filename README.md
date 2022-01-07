@@ -5,3 +5,13 @@
 3. [Static methods. OOP](lesson03)
 4. [Generics. Collections](lesson04)
 5. [Exceptions. Lambdas. Streams](lesson05)
+
+# How to do homework
+
+[Video explanation]()
+
+# Useful links
+
+1. [dev.java](https://dev.java)
+2. [Intellij IDEA](https://www.jetbrains.com/idea/download)
+3. []()
