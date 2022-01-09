@@ -8,10 +8,12 @@
 
 # How to do homework
 
-[Video explanation]()
+[Video]()
 
 # Useful links
 
 1. [dev.java](https://dev.java)
 2. [Intellij IDEA](https://www.jetbrains.com/idea/download)
-3. []()
+3. [Learn Java](https://www.codecademy.com/learn/learn-java)
+4. [Основи програмування на Java](https://courses.prometheus.org.ua/courses/EPAM/JAVA101/2016_T2/about)
+5. [Core Java. Курс для ФИВТ МФТИ](https://inponomarev.ru/corejava)
