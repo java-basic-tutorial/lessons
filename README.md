@@ -8,7 +8,8 @@
 
 # How to do homework
 
-[Video](https://youtu.be/kFpKddMmNO4) | [Updates](https://youtu.be/vqEbFf7itGk)
+* [Video](https://youtu.be/kFpKddMmNO4)
+* [Updates](https://youtu.be/vqEbFf7itGk)
 
 # Useful links
 
