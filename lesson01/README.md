@@ -2,7 +2,7 @@
 
 1. [Video lesson](https://softserveinc-my.sharepoint.com/:v:/p/mshap/EWPeSxg53BZNk1cz07ROWeUBsjLll3YwoW7ILpx95kKDsw)
 2. [Presentation](java01.pptx)
-3. [Homework](https://classroom.github.com/a/bSuE4PG3)
+3. [Homework](https://classroom.github.com/a/bSuE4PG3) | [Solution](https://youtu.be/unnpIZOo7pM)
 
 # Useful links
 
