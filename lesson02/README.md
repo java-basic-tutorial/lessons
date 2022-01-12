@@ -1,6 +1,6 @@
 # Arrays. Loop
 
-1. [Video lesson]()
+1. [Video lesson](https://softserveinc-my.sharepoint.com/:v:/p/mshap/EUweV63mcMNAqKFA3S3BGPUBdRF8Lkc4xhKBa2IBh0F51A)
 2. [Presentation](lesson02.pptx)
 3. [Homework](https://classroom.github.com/a/BkfotIXS)
 4. [Homework Solution]()
