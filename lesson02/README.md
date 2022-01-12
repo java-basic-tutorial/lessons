@@ -1,5 +1,15 @@
 # Arrays. Loop
 
 1. [Video lesson]()
-2. [Presentation](java02.pptx)
+2. [Presentation](lesson02.pptx)
 3. [Homework](https://classroom.github.com/a/BkfotIXS)
+4. [Homework Solution]()
+
+# Useful links
+
+1. [The While and Do-while Statements](https://dev.java/learn/control-flow-statements/#anchor_3)
+2. [The For Statement](https://dev.java/learn/control-flow-statements/#anchor_4)
+3. [The Break Statement](https://dev.java/learn/control-flow-statements/#anchor_5)
+4. [The Continue Statement](https://dev.java/learn/control-flow-statements/#anchor_6)
+5. [Creating Arrays in Your Programs](https://dev.java/learn/creating-arrays-in-your-programs/)
+6. []()
