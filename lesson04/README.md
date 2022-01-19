@@ -3,7 +3,7 @@
 1. [Video lesson](https://softserveinc-my.sharepoint.com/:v:/p/mshap/EdAjNpQ-edZDhcUO1xAjIcoBVBPwQxG5l3nAOxzsyagqqQ)
 2. [Presentation](lesson04.pptx)
 3. [Homework](https://classroom.github.com/a/dhylw07g)
-4. [Homework Solution]()
+4. [Homework Solution](https://youtu.be/sWlwBK38Yi0)
 
 # Useful links
 
