@@ -5,6 +5,7 @@
 3. [Static methods. OOP](lesson03)
 4. [Generics. Collections](lesson04)
 5. [Exceptions. Lambdas. Streams](lesson05)
+6. [Generics. Collections](lesson06)
 
 # How to do homework
 
