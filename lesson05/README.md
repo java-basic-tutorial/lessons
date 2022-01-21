@@ -1,6 +1,6 @@
 # Exceptions. Lambdas. Streams 
 
-1. [Video lesson]()
+1. [Video lesson](https://softserveinc-my.sharepoint.com/:v:/p/ybabe/EczbCdp9KXlOnN8Jtp3pKvUB_n03xrpAmgi4WPipnt1lKw)
 2. [Presentation](lesson05.pptx)
 3. [Homework](https://classroom.github.com/a/6SFLNviF)
 4. [Homework Solution](https://youtu.be/n_Lnraz0VoU)
