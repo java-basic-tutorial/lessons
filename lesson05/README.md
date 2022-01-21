@@ -3,7 +3,7 @@
 1. [Video lesson]()
 2. [Presentation](lesson05.pptx)
 3. [Homework](https://classroom.github.com/a/6SFLNviF)
-4. [Homework Solution]()
+4. [Homework Solution](https://youtu.be/n_Lnraz0VoU)
 
 # Useful links
 
