@@ -18,3 +18,4 @@
 7. [Структуры данных в картинках. LinkedList](https://habr.com/ru/post/127864/)
 8. [Структуры данных в картинках. HashMap](https://habr.com/ru/post/128017/)
 9. [Структуры данных в картинках. LinkedHashMap](https://habr.com/ru/post/129037/)
+10. [Коллекции в Java](https://www.examclouds.com/java/java-core-russian/lesson16)
