@@ -2,7 +2,7 @@
 
 ## Generics. Collection
 
-1. [Video lesson](https://softserveinc-my.sharepoint.com/:v:/p/ovoloshk/EXiaJg2wb-1OnGx69tAzOBcBx4_tOmOxEMbj3XOaisQn5w)
+1. [Video lesson](https://youtu.be/I3lxTeP5Ojg)
 2. [Presentation](lesson06.pptx)
 3. [Homework](https://classroom.github.com/a/m2Ry4np1)
 4. [Homework Solution](https://youtu.be/cFEnekbODBQ)
